@@ -1,0 +1,17 @@
+.fixed{
+    max-height: 400px;
+    max-width: 900px;
+}
+.content{
+    height:224px;
+   overflow:auto;
+}
+span{
+    padding: 5px;
+}
+.bg-blue {
+    background-color: white;
+  }
+  .bg-pink {
+    background-color: lightcoral;
+  }
